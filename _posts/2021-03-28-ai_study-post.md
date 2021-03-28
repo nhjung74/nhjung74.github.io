@@ -24,8 +24,8 @@ categories: jekyll update
 # 머신러닝 관련 강좌   
 
   1. 홍콩과기대 김성훈 교수
-     * 모두를 위한 머신러닝과 딥러닝의 강의   http://hunkim.github.io/ml/ 
-     * 유투브 채널 https://www.youtube.com/channel/UCML9R2ol-l0Ab9OXoNnr7Lw
+     > 모두를 위한 머신러닝과 딥러닝의 강의   http://hunkim.github.io/ml/ 
+     > 유투브 채널 https://www.youtube.com/channel/UCML9R2ol-l0Ab9OXoNnr7Lw
 
   2. 앤드류 응 ( Andrew Ng )
      * https://www.coursera.org/learn/machine-learning   
