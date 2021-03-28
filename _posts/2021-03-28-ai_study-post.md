@@ -10,7 +10,7 @@ categories: jekyll update
      * 수학의정석 (기본편) 책 정도 만 알면 됨  유튜브 강의로도 충분함
 
   2. 확률, 통계
-     * 하버드 확률론 기초  https://www.edwith.org/harvardprobability
+     * [하버드 확률론 기초] (https://www.edwith.org/harvardprobability)
      * 확률 및 통계 http://www.kocw.net/home/cview.do?cid=a2881d53f7ea3252
 
   3. 선형대수학
