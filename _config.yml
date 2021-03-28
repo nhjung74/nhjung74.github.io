@@ -20,7 +20,7 @@ title                    : "조용한 블로그"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "nugury"
-description              : "설명없음 "
+description              : "설명없음"
 url                      : "https://nhjung74.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -94,7 +94,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
+  name             : "nhjung74"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "I am an **amazing** person."
   location         : "Seoul,Korea"
